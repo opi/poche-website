@@ -1,0 +1,68 @@
+/*** GENERAL ***/
+body {
+    color: #222222;
+    font: 20px/1.3em Palatino,Georgia,serif;
+    background-color: #F1F1F1;
+    margin: 10px;
+}
+
+
+a, a:hover, a:visited {
+    color: #000;
+}
+
+header {
+    text-align: center;
+}
+
+#main ul#links {
+    padding: 0;
+    list-style-type: none;
+    text-align: center;
+}
+
+#main ul#links li {
+    display: inline;
+}
+
+#main ul#links li a.current {
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    background-color: #040707;
+    color: #F1F1F1;
+}
+
+#main {
+    margin: 0 auto;
+}
+
+#links a{
+    text-decoration: none;
+    padding: 5px 10px;
+}
+#links a:hover{
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    background-color: #040707;
+    color: #F1F1F1;
+}
+
+footer {
+    text-align: right;
+}
+
+/*** ***/
+/*** GRID DISPLAY ***/
+
+#content {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+/*** ***/
+/*** LINKS DISPLAY ***/
+
+#main a.tool {
+    text-decoration: none;
+    cursor: pointer;
+}
