@@ -44,7 +44,7 @@
             <ul id="links">
                 <li><a href="/" class="current">home</a></li>
                 <li><a href="http://inthepoche.com/demo">demo</a></li>
-                <li><a href="https://github.com/nicosomb/poche">github</a></li>
+                <li><a href="https://github.com/inthepoche/poche">github</a></li>
                 <li><a href="https://twitter.com/getpoche">twitter</a></li>
                 <li><a href="http://flattr.com/thing/1225780/nicosombpoche-on-GitHub">flattr me</a></li>
             </ul>
@@ -86,7 +86,7 @@
             </div>
         </div>
         <footer class="mr2 mt3 smaller">
-            <p>download poche on <a href="http://github.com/nicosomb/poche">github</a><br />follow us on <a href="https://twitter.com/getpoche" title="follow us on twitter">twitter</a></p>
+            <p>download poche on <a href="http://github.com/inthepoche/poche">github</a><br />follow us on <a href="https://twitter.com/getpoche" title="follow us on twitter">twitter</a></p>
         </footer>
 
         <script type="text/javascript">
