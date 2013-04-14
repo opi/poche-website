@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteBase /
+
+RewriteRule ^demo\/(.*?)$ http://demo.inthepoche.com/$1 [R=301,L]
