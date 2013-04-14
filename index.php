@@ -43,7 +43,7 @@
         <div id="main">
             <ul id="links">
                 <li><a href="/" class="current">home</a></li>
-                <li><a href="http://demo.inthepoche.com">demo</a></li>
+                <li><a href="http://demo.inthepoche.com" target="_blank">demo</a></li>
                 <li><a href="https://github.com/inthepoche/poche">github</a></li>
                 <li><a href="https://twitter.com/getpoche">twitter</a></li>
                 <li><a href="http://flattr.com/thing/1225780/nicosombpoche-on-GitHub">flattr me</a></li>
