@@ -53,6 +53,7 @@
                 <p><b>poche</b> is an alternative to Pocket, Instapaper and Readability. <b>poche</b> is a web application for managing a reading list of articles from the Internet.</p>
                 <p>Unlike the others services, <b>poche</b> is <b>open source and free</b> : all your base is belong to you !</p>
                 <p>You can easily add a page in your poche with the bookmarklet.</p>
+                <p>poche save the entire content of a poched links : text and pictures are stored on your server.</p>
                 <p>You can :
                     <ul>
                         <li>read a page in a comfortable reading view</li>
@@ -75,7 +76,8 @@
                 </p>
                 <h2>requirements & installation</h2>
                 <p>you have to install <a href="http://www.php.net/manual/en/book.sqlite.php">sqlite for php</a> on your server.</p>
-                <p>get the <a href="https://github.com/nicosomb/poche">latest version</a> of poche on github. Unzip it and upload it on your server. That's all, <b>poche works</b> !</p>
+                <p>get the <a href="https://github.com/nicosomb/poche">latest version</a> of poche on github. Unzip it and upload it on your server. poche must have write access on assets, cache and db directories.</p>
+                <p>That's all, <b>poche works</b> !</p>
                 <h2>security</h2>
                 in order to prevent downloading sqlite file, you have to modify your virtual host by adding these lines :<br /><code>&lt;Files ~ "\.sqlite$"&gt;
     Order allow,deny
