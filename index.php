@@ -81,6 +81,8 @@
     Order allow,deny
     Deny from all
 &lt;/Files&gt;</code>
+                <h2>import from pocket</h2>
+                <p>if you want to import your Pocket datas, <a href="https://getpocket.com/export">export them here</a>. Put the HTML file in your poche directory, execute import.php file locally by following instructions. Be careful, the script can take a very long time.</p>
                 <h2>license</h2>
                 <p>Copyright © 2010-2013 <a href="http://nicolas.loeuillet.org">Nicolas Lœuillet nicolas@loeuillet.org</a> This work is free. You can redistribute it and/or modify it under the terms of the Do What The Fuck You Want To Public License, Version 2, as published by Sam Hocevar. See the COPYING file for more details.</p>
             </div>
