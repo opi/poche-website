@@ -79,10 +79,14 @@
                 <p>get the <a href="https://github.com/nicosomb/poche">latest version</a> of poche on github. Unzip it and upload it on your server. poche must have write access on assets, cache and db directories.</p>
                 <p>That's all, <b>poche works</b> !</p>
                 <h2>security</h2>
-                in order to prevent downloading sqlite file, you have to modify your virtual host by adding these lines :<br /><code>&lt;Files ~ "\.sqlite$"&gt;
+                <p>in order to prevent downloading sqlite file, you have to modify your virtual host by adding these lines :</p><code>&lt;Files ~ "\.sqlite$"&gt;
     Order allow,deny
     Deny from all
 &lt;/Files&gt;</code>
+                <p>Nginx version :</p><code>location ~ /(db) {
+    deny all;
+    return 404;
+}</code>
                 <h2>import from pocket</h2>
                 <p>if you want to import your Pocket datas, <a href="https://getpocket.com/export">export them here</a>. Put the HTML file in your poche directory, execute import.php file locally by following instructions. Be careful, the script can take a very long time.</p>
                 <h2>license</h2>
