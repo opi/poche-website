@@ -46,7 +46,7 @@
                 <li><a href="http://demo.inthepoche.com" target="_blank">demo</a></li>
                 <li><a href="https://github.com/inthepoche/poche">github</a></li>
                 <li><a href="https://twitter.com/getpoche">twitter</a></li>
-                <li><a href="https://flattr.com/thing/1261422">flattr me</a></li>
+                <li><a href="http://flattr.com/thing/1265480/poche-a-read-it-later-open-source-system" target="_blank"><img src="http://api.flattr.com/button/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0" /></a></li>
             </ul>
             <div id="content" class="mtl">
                 <h2>poche ? what is poche ?</h2>
