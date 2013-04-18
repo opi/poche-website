@@ -44,6 +44,7 @@
             <ul id="links">
                 <li><a href="/" class="current">home</a></li>
                 <li><a href="http://demo.inthepoche.com" target="_blank">demo</a></li>
+                <li><a href="http://inthepoche.com/blog" target="_blank">blog</a></li>
                 <li><a href="https://github.com/inthepoche/poche">github</a></li>
                 <li><a href="https://twitter.com/getpoche">twitter</a></li>
                 <li><a href="http://flattr.com/thing/1265480/poche-a-read-it-later-open-source-system" target="_blank"><img src="http://api.flattr.com/button/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0" /></a></li>
