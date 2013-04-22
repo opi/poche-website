@@ -43,7 +43,7 @@
         <div id="main">
             <ul id="links">
                 <li><a href="/" class="current">home</a></li>
-                <li><a href="http://demo.inthepoche.com" target="_blank">demo</a></li>
+                <li><a href="http://demo.inthepoche.com" target="_blank">demo</a> (login poche, password poche)</li>
                 <li><a href="http://inthepoche.com/blog" target="_blank">blog</a></li>
                 <li><a href="https://github.com/inthepoche/poche">github</a></li>
                 <li><a href="https://twitter.com/getpoche">twitter</a></li>
