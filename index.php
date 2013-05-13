@@ -77,7 +77,7 @@
                 </p>
                 <h2>requirements & installation</h2>
                 <p>you have to install <a href="http://www.php.net/manual/en/book.sqlite.php">sqlite for php</a> on your server.</p>
-                <p>get the <a href="https://github.com/nicosomb/poche">latest version</a> of poche on github. Unzip it and upload it on your server. poche must have write access on assets, cache and db directories.</p>
+                <p>get the <a href="https://github.com/inthepoche/poche">latest version</a> of poche on github. Unzip it and upload it on your server. poche must have write access on assets, cache and db directories.</p>
                 <p>That's all, <b>poche works</b> !</p>
                 <h2>security</h2>
                 <p>in order to prevent downloading sqlite file, you have to modify your virtual host by adding these lines :</p><code>&lt;Files ~ "\.sqlite$"&gt;
